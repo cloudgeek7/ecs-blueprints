@@ -211,7 +211,7 @@ DEPENDENCIES
   byebug
   coffee-rails (~> 4.2.2)
   jbuilder (~> 2.9, >= 2.9.1)
-  jquery-rails (>= 4.4.0)
+  jquery-rails (>= 4.5.1)
   rails (= 6.1.7.1)
   sass-rails (~> 6.0, >= 6.0.0)
   sdoc (~> 1.0.0)
